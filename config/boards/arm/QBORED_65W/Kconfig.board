@@ -1,0 +1,3 @@
+config BOARD_QBORED_65W
+	bool "QBORED 65 Wireless"
+	depends on SOC_NRF52840_QIAA

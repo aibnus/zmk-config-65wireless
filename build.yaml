@@ -12,6 +12,8 @@
 #     shield: reviung41
 #
 ---
-include:
-  - board: nrfmicro_11
-    shield: QBORED_65W
+# include:
+#   - board: nrfmicro_11
+#     shield: QBORED_65W
+
+board: [ "QBORED_65W" ]
