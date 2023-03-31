@@ -14,7 +14,4 @@
 ---
 include:
   - board: nrfmicro_11
-    shield: two_percent_milk
-include:
-  - board: nrfmicro_11
-    shield: two_percent_milk
+    shield: QBORED_65W

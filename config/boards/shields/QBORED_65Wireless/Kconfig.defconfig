@@ -1,0 +1,6 @@
+if SHIELD_QBORED_65W
+
+config ZMK_KEYBOARD_NAME
+    default "QBORED 65W"
+
+endif
