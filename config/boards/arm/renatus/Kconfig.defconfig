@@ -1,7 +1,7 @@
-if BOARD_QBORED_65W
+if BOARD_RENATUS
 
 config ZMK_KEYBOARD_NAME
-	default "QBORED 65W"
+	default "Renatus"
 
 if USB_DEVICE_STACK
 

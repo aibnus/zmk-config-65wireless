@@ -16,4 +16,4 @@
 #   - board: nrfmicro_11
 #     shield: QBORED_65W
 
-board: [ "QBORED_65W" ]
+board: [ "renatus" ]
