@@ -1,3 +1,3 @@
-config BOARD_RENATUS
+config BOARD_65WIRELESS
 	bool "QBORED 65 Wireless"
 	depends on SOC_NRF52840_QIAA
