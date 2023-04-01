@@ -12,8 +12,8 @@
 #     shield: reviung41
 #
 ---
-# include:
-#   - board: nrfmicro_11
+include:
+  - board: renatus
 #     shield: QBORED_65W
 
-board: [ "65wireless" ]
+# board: [ "65wireless" ]

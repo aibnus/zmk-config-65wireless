@@ -5,8 +5,8 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
-  model = "65wireless";
-  compatible = "65,wireless";
+  model = "renatus";
+  compatible = "renatus,wireless";
 
   chosen {
     zephyr,code-partition = &code_partition;

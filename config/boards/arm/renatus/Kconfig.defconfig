@@ -1,6 +1,6 @@
-if BOARD_65WIRELESS
+if BOARD_RENATUS
 config ZMK_KEYBOARD_NAME
-	default "65wireless"
+	default "Renatus"
 
 if USB_DEVICE_STACK
 
